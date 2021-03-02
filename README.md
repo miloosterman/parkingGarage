@@ -1,2 +1,3 @@
 # parkingGarage
-This program allows a user to input the information about their parking and receive the results.
+
+<img src="https://github.com/miloosterman/parkingGarage/blob/main/week1.jpg">
